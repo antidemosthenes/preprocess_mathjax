@@ -1,0 +1,8 @@
+[project]
+name = "preprocess-mathjax"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "lxml>=6.1.1",
+]
